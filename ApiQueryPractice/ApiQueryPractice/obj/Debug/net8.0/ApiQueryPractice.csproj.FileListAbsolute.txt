@@ -1,0 +1,14 @@
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\bin\Debug\net8.0\ApiQueryPractice.exe
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\bin\Debug\net8.0\ApiQueryPractice.deps.json
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\bin\Debug\net8.0\ApiQueryPractice.runtimeconfig.json
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\bin\Debug\net8.0\ApiQueryPractice.dll
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\bin\Debug\net8.0\ApiQueryPractice.pdb
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\obj\Debug\net8.0\ApiQueryPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\obj\Debug\net8.0\ApiQueryPractice.AssemblyInfoInputs.cache
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\obj\Debug\net8.0\ApiQueryPractice.AssemblyInfo.cs
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\obj\Debug\net8.0\ApiQueryPractice.csproj.CoreCompileInputs.cache
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\obj\Debug\net8.0\ApiQueryPractice.dll
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\obj\Debug\net8.0\refint\ApiQueryPractice.dll
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\obj\Debug\net8.0\ApiQueryPractice.pdb
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\obj\Debug\net8.0\ApiQueryPractice.genruntimeconfig.cache
+C:\Users\south\source\repos\ApiQueryPractice\ApiQueryPractice\obj\Debug\net8.0\ref\ApiQueryPractice.dll
